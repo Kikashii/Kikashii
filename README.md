@@ -15,6 +15,6 @@ Currently a last semester CSE student at Islamic University of Technology
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kikashii&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Connect with me:
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafid.nahiyan.farabi.85@gmail.com)
+<!--![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()-->
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rafidnahiyan.farabi) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafid-nahiyan-farabi-a1027a221/) 
